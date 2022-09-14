@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "strict": true,
+        "noImplicitAny": false,
+        "preserveConstEnums": true,
+        "noEmit": true,
+        "sourceMap": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "baseUrl": "./src",
+        "lib": ["es2020", "dom"]
+    },
+    "ts-node": {
+        "files": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
