@@ -3,6 +3,7 @@ REST API with Node.js
 Tech Stack: TypeScript, Express, Mongoose, MongoDB
 
 Here are the Scripts to run:
+
 $ npm install
 $ npm run start:dev
 $ npm run test
